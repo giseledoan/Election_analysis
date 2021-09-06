@@ -1,7 +1,7 @@
 # Election_analysis
 
 ## Project Overview
-This project is to analysis the voting data to detertime the election result:
+This project is to analysis the voting data of the Colorado Board of Election to detertime the congressional election result:
 - Total number of votes cast
 - A complete list of candidates who received votes
 - Total number of votes each candidate received
