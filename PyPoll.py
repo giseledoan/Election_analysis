@@ -92,10 +92,10 @@ with open(file_to_save, "w") as txt_file:
         #Determine if votes > winning count:
         if (votes > winning_count) and (vote_percentage > winning_percentage):
             #If true, set winning_count = votes and winning % = vote %
-            winning_count = votes
-            winning_percentage = vote_percentage
+           winning_count = votes
+           winning_percentage = vote_percentage
             #Set winning candidate = candidate name
-            winning_candidate = candidate_name
+           winning_candidate = candidate_name
     #Print out the winning candidate summary
     winning_candidate_summary = (f"------------------\n"
     f"Winner:{winning_candidate}\n"
