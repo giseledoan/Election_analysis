@@ -25,4 +25,5 @@ This project is to analysis the voting data of the Colorado Board of Election to
 
 ## Summary
 - This script can be used to other elections. The new election will have a new result file, for example: new_result.csv. The analyst will replace the existing file name election_results.csv on line 9 by the new file name like the picture below:
+
 ![Title](Resources/line9.png)
